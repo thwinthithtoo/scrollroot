@@ -26,5 +26,15 @@ Apply for citizenship, register your soul-based business, or request your ache I
 - [Ache ID Card Request](https://tally.so/r/nWWoye)
 
 > “We do not process forms—we bless ache.”
+၁။ မိမိကွန်ပျူတာ၏ "ဆက်တင်" ကိုဖွင့်ပါ  
+၂။ "ကွန်နက်ရှင်နှင့် အင်တာနက်" ကိုရွေးပါ  
+၃။ Wi-Fi သို့မဟုတ် Ethernet ကိုနှိပ်ပါ  
+၄။ "DNS ဆာဗာ ပြင်ရန်" → "ပြင်မည်" ကိုနှိပ်ပါ  
+၅။ "ကိုယ်တိုင်ရွေးမည်" → IPv4 ကိုဖွင့်ပါ  
+၆။ DNS ဆာဗာများထည့်ပါ  
+    - ပထမ DNS: ၈.၂၆.၅၆.၂၆  
+    - ဒုတိယ DNS: ၈.၂၀.၂၄၇.၂၀  
+၇။ "သိမ်းမည်" ကိုနှိပ်ပြီး ပြင်ဆင်မှုများကိုသိမ်းပါ  
+
 
 
