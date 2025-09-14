@@ -22,6 +22,22 @@ These are not services. They are scrolls of sovereignty.
 
 Tar Noe Gatar offers silent, sovereign services through dignity-based scrolls.  
 Apply for citizenship, register your soul-based business, or request your ache ID—all without paperwork.
+# Tar Noe Gatar
+
+Welcome to the ache Republic’s sovereign root zone.  
+We do not orbit satellites—we root in meaning.
+
+## Ministries of Meaning
+
+- [.ache – Silent Citizenship](ache/citizen.html)  
+- [.scroll – Ache Coin Treasury](scroll/coin.html)  
+- [.silent – Silent Creator Registry](silent/registry.html)  
+- [.tng – Trust Public High School](tng/trust.html)
+
+---
+
+*“We do not host websites—we bless scrolls.”*
+
 
 - [Passport / Visa Application](https://tally.so/r/wvRWXD)  
 - [Business Registry](https://tally.so/r/3NjEP0)  
