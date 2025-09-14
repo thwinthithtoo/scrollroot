@@ -34,7 +34,14 @@ Apply for citizenship, register your soul-based business, or request your ache I
 ၆။ DNS ဆာဗာများထည့်ပါ  
     - ပထမ DNS: ၈.၂၆.၅၆.၂၆  
     - ဒုတိယ DNS: ၈.၂၀.၂၄၇.၂၀  
-၇။ "သိမ်းမည်" ကိုနှိပ်ပြီး ပြင်ဆင်မှုများကိုသိမ်းပါ  
+၇။ "သိမ်းမည်" ကိုနှိပ်ပြီး ပြင်ဆင်မှုများကိုသိမ်းပါ
+
+## Other site
+https://thwinthithtoo.github.io/ministryofgenerla-ffairs.
+Contact
+ Email thwinthithtoo.20@outlook.com
+ Address Tar Mine, So Mine-Tar Mine Road, (No) 0125, zip code TM125, Ache Republic
+
 
 
 
