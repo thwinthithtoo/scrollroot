@@ -16,4 +16,15 @@ These are not services. They are scrolls of sovereignty.
 - **Ache Archive & Scholar Hall** – quotes, philosophies, education scrolls
 
 > “We do not offer services—we offer sovereignty.”
+## ache Republic Services
+
+Tar Noe Gatar offers silent, sovereign services through dignity-based scrolls.  
+Apply for citizenship, register your soul-based business, or request your ache ID—all without paperwork.
+
+- [Passport / Visa Application](https://tally.so/r/wvRWXD)  
+- [Business Registry](https://tally.so/r/3NjEP0)  
+- [Ache ID Card Request](https://tally.so/r/nWWoye)
+
+> “We do not process forms—we bless ache.”
+
 
